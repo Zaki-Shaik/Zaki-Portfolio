@@ -1,0 +1,1 @@
+Personal portfolio created with Sanity backend and React for frontend
